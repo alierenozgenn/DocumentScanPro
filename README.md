@@ -273,7 +273,7 @@ We ❤️ contributions! Here's how you can help make DocumentScanPro even bette
 \`\`\`bash
 # 1. Fork the repository on GitHub
 # 2. Clone your fork
-git clone https://github.com/YOUR_USERNAME/DocumentScanPro.git
+git clone https://github.com/alierenozgenn/DocumentScanPro.git
 
 # 3. Create a feature branch
 git checkout -b feature/amazing-new-feature
