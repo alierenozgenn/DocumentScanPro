@@ -60,7 +60,7 @@ DocumentScanPro is a cutting-edge computer vision system that automatically conv
 
 \`\`\`bash
 # Clone the repository
-git clone https://github.com/yourusername/DocumentScanPro.git
+git clone https://github.com/alierenozgenn/DocumentScanPro.git
 cd DocumentScanPro
 
 # Install dependencies
@@ -399,9 +399,9 @@ DocumentScanPro/
 
 ### **💡 Ideas & Suggestions**
 Have an idea? We'd love to hear it! 
-- 💬 [Open a discussion](https://github.com/yourusername/DocumentScanPro/discussions)
-- 🐛 [Report a bug](https://github.com/yourusername/DocumentScanPro/issues)
-- ✨ [Request a feature](https://github.com/yourusername/DocumentScanPro/issues/new?template=feature_request.md)
+- 💬 [Open a discussion](https://github.com/alierenozgenn/DocumentScanPro/discussions)
+- 🐛 [Report a bug](https://github.com/alierenozgenn/DocumentScanPro/issues)
+- ✨ [Request a feature](https://github.com/alierenozgenn/DocumentScanPro/issues/new?template=feature_request.md)
 
 ---
 
@@ -435,31 +435,9 @@ Special thanks to the amazing open-source community:
 
 ---
 
-## 💬 **Support**
-
-Need help? We're here for you!
-
-### **📞 Get Support**
-- 📧 **Email**: support@documentscanpro.com
-- 💬 **Discord**: [Join our community](https://discord.gg/documentscanpro)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/DocumentScanPro/issues)
-- 💡 **Discussions**: [GitHub Discussions](https://github.com/yourusername/DocumentScanPro/discussions)
-- 📖 **Wiki**: [Detailed Documentation](https://github.com/yourusername/DocumentScanPro/wiki)
-
-### **🤝 Community**
-- 🌟 **Star** this repo if you find it useful!
-- 🍴 **Fork** it to create your own version
-- 📢 **Share** with friends and colleagues
-- 🐦 **Tweet** about your experience: [@DocumentScanPro](https://twitter.com/documentscanpro)
-
----
-
-<div align="center">
-
-### **🚀 Ready to transform your documents?**
 
 \`\`\`bash
-git clone https://github.com/yourusername/DocumentScanPro.git
+git clone https://github.com/alierenozgenn/DocumentScanPro.git
 cd DocumentScanPro
 pip install -r requirements.txt
 python main.py
